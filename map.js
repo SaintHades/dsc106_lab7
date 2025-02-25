@@ -1,5 +1,5 @@
 // Set your Mapbox access token here
-mapboxgl.accessToken = 'YOUR_ACCESS_TOKEN_HERE';
+mapboxgl.accessToken = 'pk.eyJ1Ijoic2FpbnRoYWRlcyIsImEiOiJjbTdrYzNtZ2IwNWtqMmlweGh0cGpsdGxzIn0.iih054pEPqopwdLFBu1S3w';
 
 // Initialize the map
 const map = new mapboxgl.Map({
@@ -11,4 +11,3 @@ const map = new mapboxgl.Map({
     maxZoom: 18 // Maximum allowed zoom
 });
 
-mapboxgl.accessToken = 'pk.eyJ1Ijoic2FpbnRoYWRlcyIsImEiOiJjbTdrYzNtZ2IwNWtqMmlweGh0cGpsdGxzIn0.iih054pEPqopwdLFBu1S3w';
